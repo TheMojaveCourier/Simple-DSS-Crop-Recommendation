@@ -17,5 +17,10 @@ This is a university project, feel free to use and contribute.
 * Flask python library <br />
 * Re python library <br />
 
-##Usage:
-After running the script enter in your browser the address http://127.0.0.1:5000/. There you can can insert your values and get the reccomended crop.
+## Usage:
+After running the script enter in your browser the address 127.0.0.1:5000. There you can can insert your values and get the reccomended crop.
+
+<p align="left">
+    <a href="https://github.com/TheMojaveCourier/Simple-DSS-Crop-Recommendation/tree/main"><img src="images/Crop_Recommendation_System.png" alt="Logo" border="0"></a>
+    <br /> <br /> <a href="https://github.com/TheMojaveCourier/Simple-DSS-Crop-Recommendation/tree/main"><img src="images/Crop_Recommendation_System_2.png" alt="Logo" border="0"></a>
+</p>
